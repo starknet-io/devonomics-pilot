@@ -17,10 +17,8 @@
 
 ## Don't trust, verify
 
-Wanna verify the distribution of the Devonomics funds? You can do so by running the following command:
+Wanna verify the distribution of the Devonomics funds? Take a look at `allocations.csv` in `src/csv` and find your address. The csv file contains almost 10K contracts, ordered by their allocation amount. If your address doesn't appear there, it means that it received less than ~0.000135 ETH in this round.
 
-```bash
-```
 
 ## 📖 License
 
